@@ -139,10 +139,9 @@ Example `config.json` shape (adjust to match what `extender()` expects):
 
 ---
 
-## Author & Contact
+## Contact
 
-- **Author:** microRustyme  
-- **Telegram:** [@microRustyme](https://t.me/microRustyme)
+fiv3fingers.dev@gmail.com
 
 ---
 
