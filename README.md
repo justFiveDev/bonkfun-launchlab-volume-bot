@@ -141,7 +141,7 @@ Example `config.json` shape (adjust to match what `extender()` expects):
 
 ## Contact
 
-fiv3fingers.dev@gmail.com
+[Telegram](https://t.me/fiv3dev)
 
 ---
 
